@@ -19,10 +19,22 @@ def create_annotations(page):
     for block in page.get_text("dict")["blocks"]:
         if block["type"] == 0:  # Text block
             bbox = block["bbox"]
+            alignment = block.get("lines", [{}])[0].get("flags", 0)  # Get alignment info from the first line
+            if alignment == 0:
+                align = "left"
+            elif alignment == 1:
+                align = "right"
+            elif alignment == 2:
+                align = "center"
+            elif alignment == 4:
+                align = "justify"
+            else:
+                align = "left"  # Default to left if unknown
             annotations.append({
                 'bbox': bbox,
                 'category': 'text',
-                'content': block["lines"]
+                'content': block["lines"],
+                'alignment': align
             })
 
     # Detect images
@@ -40,6 +52,15 @@ def create_annotations(page):
 
     return annotations
 
+# Function to determine the font weight
+def get_font_weight(font_name):
+    weight = "normal"
+    if "Bold" in font_name:
+        weight = "bold"
+    if "Italic" in font_name or "Oblique" in font_name:
+        weight = "italic"
+    return weight
+
 # Function to create XHTML content from annotations
 def create_xhtml_content(page, annotations):
     xhtml_content = ""
@@ -49,11 +70,23 @@ def create_xhtml_content(page, annotations):
         x0, y0, x1, y1 = bbox
 
         if annotation['category'] == 'text':
+            align = annotation['alignment']
             # Combine text lines into paragraphs
-            paragraphs = []
+            paragraphs = [f"<div style='text-align:{align};'>"]
             for line in annotation['content']:
-                text = " ".join([html.escape(span['text']) for span in line['spans']])
-                paragraphs.append(f"<p>{text}</p>")
+                for span in line['spans']:
+                    text = html.escape(span['text'])
+                    font_size = span['size']
+                    font_name = span['font']
+                    font_weight = get_font_weight(font_name)
+                    color = span['color']
+                    r = (color >> 16) & 255
+                    g = (color >> 8) & 255
+                    b = color & 255
+                    style = f"font-size:{font_size}px; font-family:{font_name}; font-weight:{font_weight}; color:rgb({r},{g},{b});"
+                    paragraphs.append(f"<span style='{style}'>{text}</span>")
+                paragraphs.append("<br/>")  # Line break after each line
+            paragraphs.append("</div>")
             xhtml_content += "\n".join(paragraphs)
         
         elif annotation['category'] == 'figure':
@@ -76,7 +109,7 @@ for page_num in range(document.page_count):
     annotations = create_annotations(page)
     xhtml_content = create_xhtml_content(page, annotations)
     
-    xhtml = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n<html xmlns="http://www.w3.org/1999/xhtml">\n<head>\n<meta charset="UTF-8" />\n<title>Annotated PDF - Page {page_num+1}</title>\n<style>p { margin: 0; padding: 0; }</style>\n</head>\n<body>\n'
+    xhtml = f'<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n<html xmlns="http://www.w3.org/1999/xhtml">\n<head>\n<meta charset="UTF-8" />\n<title>Annotated PDF - Page {page_num+1}</title>\n<style>p {{ margin: 0; padding: 0; }}</style>\n</head>\n<body>\n'
     xhtml += f"<div style='position:relative;'>\n{xhtml_content}\n</div>\n"
     xhtml += '</body>\n</html>'
     
