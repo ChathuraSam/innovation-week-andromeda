@@ -1,4 +1,1 @@
-requests
-numpy
-Pillow
-matplotlib
+beautifulsoup4
