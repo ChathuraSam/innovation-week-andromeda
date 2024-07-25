@@ -33,7 +33,10 @@ def write_chars_to_file(lines):
                     bottom = prop.split(';')[0].strip()
                     if current_bottom is not None:
                         if bottom != current_bottom:
+                            pop_char = chars.pop()
                             chars.append(f'\n')
+                            chars.append(f'{pop_char}')
+                    print(f'{current_bottom}\t{bottom}\t{text}')
                     current_bottom = bottom
                 
     lines = [f"{text}" for text in chars]
