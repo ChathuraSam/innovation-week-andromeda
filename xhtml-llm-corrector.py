@@ -19,21 +19,11 @@ def process_xhtml_file(input_file, output_file):
   
     # Define the prompt template 
     prompt_template = """
+
+    You are an expert in identifying meaningful words series from a series of characters.
+    Given the xhtml span tags below, read it line by line and modify the text content of each span tag by breaking it down into a series of individual words without adding extra words to complete it as a sentence.
     
-    You are an expert in EPUB formatting and XHTML,
-    
-    
-    Give below is the xhtml code of the epub which is converted from pdf using PDFnet lib. 
-    Having an issue in the content of html content.
-    Here the text content of the pdf is generated as a bunch of span tags. 
-    But here span tags contain word or subword or character. 
-    Can you provide me the modified xhtml code after the text contents of spans which are 
-    in the same bottom position in to a one span tag without adding extra text. 
-    
-    
-    Bring all words to one sentence. and form the words in the same line to one span tag.
-    
-    XHTML content to fix:
+    XHTML spans to fix:
      {xhtml_content}
 
      Please provide the corrected XHTML:
@@ -57,8 +47,8 @@ def process_xhtml_file(input_file, output_file):
     print(f"Processed {input_file} and saved results to {output_file}")
 
 # Example usage
-input_file = "test.xhtml"
-output_file = "output.xhtml"
+input_file = "output2.txt"
+output_file = "response_from_llm.xhtml"
 
 # Process the XHTML file
 process_xhtml_file(input_file, output_file)
