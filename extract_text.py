@@ -24,6 +24,8 @@ def write_chars_to_file(lines):
     for tag in span_tags:
         text = tag.get_text()
         style = tag.get('style')
+        class_prooperties = tag.get('class')
+        print(f'{class_prooperties}')
         if style:
             style_properties = style.split(';')
             
@@ -34,18 +36,39 @@ def write_chars_to_file(lines):
                     if current_bottom is not None:
                         if bottom != current_bottom:
                             pop_char = chars.pop()
+                            chars.append(f'###')
+                            for class_property in class_prooperties:
+                                chars.append(f' {class_property}')
+                            chars.append(f'###{style}')
                             chars.append(f'\n')
                             chars.append(f'{pop_char}')
-                    print(f'{current_bottom}\t{bottom}\t{text}')
+                    # print(f'{current_bottom}\t{bottom}\t{text}')
                     current_bottom = bottom
                 
     lines = [f"{text}" for text in chars]
     with open('output.txt', 'w', encoding='utf-8') as file:  # Ensure correct encoding
         file.write(f''.join(lines))
+        
+def add_span_tags_to_xhtml(chars):
+    input_file_path = 'output.txt'
+    output_file_path = 'output2.txt'
+
+    with open(input_file_path, 'r', encoding='utf-8') as infile, open(output_file_path, 'w', encoding='utf-8') as outfile:
+        for line in infile:
+            class_properties = ''
+            if len(line.split('###')) > 1:
+                class_properties = line.split('###')[1]
+                wrapped_line = f'<span class = \"{class_properties}\" style=\"{line.split('###')[2].replace('\n', '')}\">{(line.split('###'))[0].strip()}</span>\n'
+            else:
+                class_properties = ''
+            
+            outfile.write(wrapped_line)
+    return
 
 def main():
     chars = []
     write_chars_to_file(chars)
+    add_span_tags_to_xhtml(chars)
     return
 
 main()

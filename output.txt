@@ -1,64 +1,66 @@
-
-changedsignicantlyduringthatperiod,a12-monthstudymaybenecessary.
-Deviationsfromthisrange,eitheraboveorbelowtheestablishedmeanrange,
-willoccurfromtimetotime.Whenfollowingabreakoutfromtheestab-
-lishedrange,itiscommonforIVtorevertbacktoitsnormalrange.Thisis
-commonlycalledreversiontothemeanamongvolatilitywatchers.
-Thechallengeisrecognizingwhenthingschangeandwhentheystaythe
-same.Ifthefundamentalsofthestockchangeinsuchawayastogive
-theoptionsmarketreasontobelievethestockwillnowbemoreorless
-volatileonanongoingbasisthanittypicallyhasbeenintherecentpast,the
-IVmaynotreverttothemean.Instead,anewmeanvolatilitylevelmaybe
-established.
-WhenconsideringthelikelihoodofwhetherIVwillreverttorecent
-levelsafterithasdeviatedor
-ﬁ
-ndanewrange,thetimehorizonandchanges
-inthemarketplacemustbetakenintoaccount.Forexample,between1998
-and2003themeanvolatilityleveloftheSPXwasaround20percentto
-30percent.Bythelatterhalfof2006,themeanIVwasintherangeof
-10percentto13percent.Thedifferencewasthatbetween1998and2003
-wasthebuildupof
-“
-thetechbubble,
-”
-asitwascalledbythe
-ﬁ
-nancialmedia.
-Marketvolatilityultimatelyleveledoffin2003.
-Inalaterera,betweenthefallof2010andlatesummerof2011SPX
-impliedvolatilitysettledintotrademostlybetween12and20percent.But
-inAugust2011,astheEuropeandebtcrisisheatedup,anew,morevolatile
-rangebetween24and40percentreignedforsometime.
-NotradercanaccuratelypredictfutureIVanymorethanonecanpre-
-dictthefuturepriceofastock.However,withIVthereareoftenrecurr-
-ingpatternsthattraderscanobserve,liketheebband
-ﬂ
-owofIVoften
-associatedwithearningsorotherregularlyscheduledevents.Butbeaware
-thattheIV
-’
-srisingbeforethelast15earningsreportsdoesn
-’
-tmeanitwill
-thistime.
-CBOEVolatilityIndex
-Ò
-Oftentraderslooktotheimpliedvolatilityofthemarketasawholefor
-guidanceontheIVofindividualstocks.TradersusetheChicagoBoard
-OptionsExchange(CBOE)VolatilityIndex
-Ò
-,orVIX
-Ò
-,asanindicatorof
-overallmarketvolatility.
-Whenpeopletalkaboutthemarket,theyaretalkingaboutabroad-based
-indexcoveringmanystocksonmanydiverseindustries.Usually,theyare
-referringtotheS&P500.JustastheIVofastockmayofferinsightabout
-investors
-’
-feelingsaboutthatstock
-’
-sfuturevolatility,thevolatilityofoptions
-66
+### s1 f66 fs1 l0###left:3457.8px;bottom:36076.6px;color:rgb(35,31,32);
+changedsigni### s1 f13 fs1 l0###left:7097.02px;bottom:36263.2px;color:rgb(35,31,32);
+ﬁ### s1 f66 fs1 l0###left:7467.14px;bottom:36076.6px;color:rgb(35,31,32);
+cantlyduringthatperiod,a12-monthstudymaybenecessary.### s1 f66 fs1 l0###left:3457.8px;bottom:35249.3px;color:rgb(35,31,32);
+Deviationsfromthisrange,eitheraboveorbelowtheestablishedmeanrange,### s1 f66 fs1 l0###left:3457.8px;bottom:34418.4px;color:rgb(35,31,32);
+willoccurfromtimetotime.Whenfollowingabreakoutfromtheestab-### s1 f66 fs1 l0###left:3457.8px;bottom:33591.2px;color:rgb(35,31,32);
+lishedrange,itiscommonforIVtorevertbacktoitsnormalrange.Thisis### s1 f66 fs1 l0###left:3457.8px;bottom:32760.3px;color:rgb(35,31,32);
+commonlycalledreversiontothemeanamongvolatilitywatchers.### s1 f66 fs1 l0###left:4604.35px;bottom:31933px;color:rgb(35,31,32);
+Thechallengeisrecognizingwhenthingschangeandwhentheystaythe### s1 f66 fs1 l0###left:3457.8px;bottom:31102.1px;color:rgb(35,31,32);
+same.Ifthefundamentalsofthestockchangeinsuchawayastogive### s1 f66 fs1 l0###left:3457.8px;bottom:30274.8px;color:rgb(35,31,32);
+theoptionsmarketreasontobelievethestockwillnowbemoreorless### s1 f66 fs1 l0###left:3457.8px;bottom:29447.5px;color:rgb(35,31,32);
+volatileonanongoingbasisthanittypicallyhasbeenintherecentpast,the### s1 f66 fs1 l0###left:3457.8px;bottom:28616.6px;color:rgb(35,31,32);
+IVmaynotreverttothemean.Instead,anewmeanvolatilitylevelmaybe### s1 f66 fs1 l0###left:3457.8px;bottom:27789.3px;color:rgb(35,31,32);
+established.### s1 f66 fs1 l0###left:4604.35px;bottom:26958.4px;color:rgb(35,31,32);
+WhenconsideringthelikelihoodofwhetherIVwillreverttorecent### s1 f66 fs1 l0###left:3457.8px;bottom:26131.1px;color:rgb(35,31,32);
+levelsafterithasdeviatedor### s1 f13 fs1 l0###left:11262.3px;bottom:26317.7px;color:rgb(35,31,32);
+ﬁ### s1 f66 fs1 l0###left:11632.5px;bottom:26131.1px;color:rgb(35,31,32);
+ndanewrange,thetimehorizonandchanges### s1 f66 fs1 l0###left:3457.8px;bottom:25300.2px;color:rgb(35,31,32);
+inthemarketplacemustbetakenintoaccount.Forexample,between1998### s1 f66 fs1 l0###left:3457.8px;bottom:24473px;color:rgb(35,31,32);
+and2003themeanvolatilityleveloftheSPXwasaround20percentto### s1 f66 fs1 l0###left:3457.8px;bottom:23642px;color:rgb(35,31,32);
+30percent.Bythelatterhalfof2006,themeanIVwasintherangeof### s1 f66 fs1 l0###left:3457.8px;bottom:22814.7px;color:rgb(35,31,32);
+10percentto13percent.Thedifferencewasthatbetween1998and2003### s1 f66 fs1 l0###left:3457.8px;bottom:21987.5px;color:rgb(35,31,32);
+wasthebuildupof### s1 f23 fs1 l0###left:8671.68px;bottom:22176.1px;color:rgb(35,31,32);
+“### s1 f66 fs1 l0###left:8951.04px;bottom:21987.5px;color:rgb(35,31,32);
+thetechbubble,### s1 f23 fs1 l0###left:13355.8px;bottom:22176.1px;color:rgb(35,31,32);
+”### s1 f66 fs1 l0###left:13813px;bottom:21987.5px;color:rgb(35,31,32);
+asitwascalledbythe### s1 f13 fs1 l0###left:19817.9px;bottom:22174px;color:rgb(35,31,32);
+ﬁ### s1 f66 fs1 l0###left:20188px;bottom:21987.5px;color:rgb(35,31,32);
+nancialmedia.### s1 f66 fs1 l0###left:3457.73px;bottom:21156.5px;color:rgb(35,31,32);
+Marketvolatilityultimatelyleveledoffin2003.### s1 f66 fs1 l0###left:4604.29px;bottom:20329.3px;color:rgb(35,31,32);
+Inalaterera,betweenthefallof2010andlatesummerof2011SPX### s1 f66 fs1 l0###left:3457.73px;bottom:19498.4px;color:rgb(35,31,32);
+impliedvolatilitysettledintotrademostlybetween12and20percent.But### s1 f66 fs1 l0###left:3457.73px;bottom:18671.1px;color:rgb(35,31,32);
+inAugust2011,astheEuropeandebtcrisisheatedup,anew,morevolatile### s1 f66 fs1 l0###left:3457.73px;bottom:17840.2px;color:rgb(35,31,32);
+rangebetween24and40percentreignedforsometime.### s1 f66 fs1 l0###left:4604.29px;bottom:17012.9px;color:rgb(35,31,32);
+NotradercanaccuratelypredictfutureIVanymorethanonecanpre-### s1 f66 fs1 l0###left:3457.73px;bottom:16182px;color:rgb(35,31,32);
+dictthefuturepriceofastock.However,withIVthereareoftenrecurr-### s1 f66 fs1 l0###left:3457.73px;bottom:15354.7px;color:rgb(35,31,32);
+ingpatternsthattraderscanobserve,liketheebband### s1 f13 fs1 l0###left:19378.9px;bottom:15541.3px;color:rgb(35,31,32);
+ﬂ### s1 f66 fs1 l0###left:19745.3px;bottom:15354.7px;color:rgb(35,31,32);
+owofIVoften### s1 f66 fs1 l0###left:3457.73px;bottom:14523.8px;color:rgb(35,31,32);
+associatedwithearningsorotherregularlyscheduledevents.Butbeaware### s1 f66 fs1 l0###left:3457.73px;bottom:13696.5px;color:rgb(35,31,32);
+thattheIV### s1 f23 fs1 l0###left:6563.58px;bottom:13885.2px;color:rgb(35,31,32);
+’### s1 f66 fs1 l0###left:6726.85px;bottom:13696.5px;color:rgb(35,31,32);
+srisingbeforethelast15earningsreportsdoesn### s1 f23 fs1 l0###left:20173.5px;bottom:13885.2px;color:rgb(35,31,32);
+’### s1 f66 fs1 l0###left:20336.8px;bottom:13696.5px;color:rgb(35,31,32);
+tmeanitwill### s1 f66 fs1 l0###left:3457.73px;bottom:12869.2px;color:rgb(35,31,32);
+thistime.### s1 f68 fs5 l5###left:3457.8px;bottom:10777.9px;color:rgb(35,31,32);
+CBOEVolatilityIndex### s1 f41 fs14 l0 t9 o0###left:10424.3px;bottom:11315.9px;color:rgb(35,31,32);
+Ò### s1 f66 fs1 l0###left:3457.8px;bottom:9553.41px;color:rgb(35,31,32);
+Oftentraderslooktotheimpliedvolatilityofthemarketasawholefor### s1 f66 fs1 l0###left:3457.8px;bottom:8722.5px;color:rgb(35,31,32);
+guidanceontheIVofindividualstocks.TradersusetheChicagoBoard### s1 f66 fs1 l0###left:3457.8px;bottom:7895.23px;color:rgb(35,31,32);
+OptionsExchange(CBOE)VolatilityIndex### s1 f41 fs9 l0 t6 o0###left:15649px;bottom:8388.49px;color:rgb(35,31,32);
+Ò### s1 f66 fs1 l0###left:16062.7px;bottom:7895.3px;letter-spacing:242.0px;color:rgb(35,31,32);
+,orVIX### s1 f41 fs9 l0 t6 o0###left:18446.5px;bottom:8388.49px;color:rgb(35,31,32);
+Ò### s1 f66 fs1 l0###left:18860.2px;bottom:7895.3px;color:rgb(35,31,32);
+,asanindicatorof### s1 f66 fs1 l0###left:3457.85px;bottom:7064.39px;color:rgb(35,31,32);
+overallmarketvolatility.### s1 f66 fs1 l0###left:4604.42px;bottom:6237.06px;color:rgb(35,31,32);
+Whenpeopletalkaboutthemarket,theyaretalkingaboutabroad-based### s1 f66 fs1 l0###left:3457.85px;bottom:5409.79px;color:rgb(35,31,32);
+indexcoveringmanystocksonmanydiverseindustries.Usually,theyare### s1 f66 fs1 l0###left:3457.85px;bottom:4578.88px;color:rgb(35,31,32);
+referringtotheS&P500.JustastheIVofastockmayofferinsightabout### s1 f66 fs1 l0###left:3457.85px;bottom:3751.62px;color:rgb(35,31,32);
+investors### s1 f23 fs1 l0###left:5830.78px;bottom:3940.29px;color:rgb(35,31,32);
+’### s1 f66 fs1 l0###left:6164.61px;bottom:3751.62px;color:rgb(35,31,32);
+feelingsaboutthatstock### s1 f23 fs1 l0###left:12724.6px;bottom:3940.29px;color:rgb(35,31,32);
+’### s1 f66 fs1 l0###left:12887.9px;bottom:3751.62px;color:rgb(35,31,32);
+sfuturevolatility,thevolatilityofoptions### s1 f36 fs1 l4###left:3454.18px;bottom:37915px;color:rgb(35,31,32);
+66### s1 f36 fs7 l4###left:16889.9px;bottom:37950.9px;color:rgb(35,31,32);
 TheBasicsofOptionGreeks
