@@ -25,7 +25,6 @@ def write_chars_to_file(lines):
         text = tag.get_text()
         style = tag.get('style')
         class_prooperties = tag.get('class')
-        print(f'{class_prooperties}')
         if style:
             style_properties = style.split(';')
             
@@ -48,6 +47,7 @@ def write_chars_to_file(lines):
     lines = [f"{text}" for text in chars]
     with open('output.txt', 'w', encoding='utf-8') as file:  # Ensure correct encoding
         file.write(f''.join(lines))
+    print(f'output.txt updated with {len(lines)} characters')
         
 def add_span_tags_to_xhtml(chars):
     input_file_path = 'output.txt'
@@ -63,6 +63,7 @@ def add_span_tags_to_xhtml(chars):
                 class_properties = ''
             
             outfile.write(wrapped_line)
+    print(f'{output_file_path} updated with span tags')
     return
 
 def main():
