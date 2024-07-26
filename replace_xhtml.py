@@ -38,6 +38,6 @@ def replace_span_tags(xhtml_file, text_file):
 
 # Example usage:
 xhtml_file = './page090.xhtml'
-text_file = './text.txt'
+text_file = './response_from_llm.xhtml'
 
 replace_span_tags(xhtml_file, text_file)
