@@ -3,6 +3,7 @@ from langchain.prompts.prompt import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_openai import ChatOpenAI
 
+# run >> pip install -r requirements.txt OR install manually the below libraries
 # install libraries
 # pip install langchain
 # pip install langchain-openai
