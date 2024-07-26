@@ -1,7 +1,5 @@
 ### s1 f66 fs1 l0###left:3457.8px;bottom:36076.6px;color:rgb(35,31,32);
-changedsigni### s1 f13 fs1 l0###left:7097.02px;bottom:36263.2px;color:rgb(35,31,32);
-ﬁ### s1 f66 fs1 l0###left:7467.14px;bottom:36076.6px;color:rgb(35,31,32);
-cantlyduringthatperiod,a12-monthstudymaybenecessary.### s1 f66 fs1 l0###left:3457.8px;bottom:35249.3px;color:rgb(35,31,32);
+changedsignicantlyduringthatperiod,a12-monthstudymaybenecessary.### s1 f66 fs1 l0###left:3457.8px;bottom:35249.3px;color:rgb(35,31,32);
 Deviationsfromthisrange,eitheraboveorbelowtheestablishedmeanrange,### s1 f66 fs1 l0###left:3457.8px;bottom:34418.4px;color:rgb(35,31,32);
 willoccurfromtimetotime.Whenfollowingabreakoutfromtheestab-### s1 f66 fs1 l0###left:3457.8px;bottom:33591.2px;color:rgb(35,31,32);
 lishedrange,itiscommonforIVtorevertbacktoitsnormalrange.Thisis### s1 f66 fs1 l0###left:3457.8px;bottom:32760.3px;color:rgb(35,31,32);
@@ -13,9 +11,7 @@ volatileonanongoingbasisthanittypicallyhasbeenintherecentpast,the### s1 f66 fs1 
 IVmaynotreverttothemean.Instead,anewmeanvolatilitylevelmaybe### s1 f66 fs1 l0###left:3457.8px;bottom:27789.3px;color:rgb(35,31,32);
 established.### s1 f66 fs1 l0###left:4604.35px;bottom:26958.4px;color:rgb(35,31,32);
 WhenconsideringthelikelihoodofwhetherIVwillreverttorecent### s1 f66 fs1 l0###left:3457.8px;bottom:26131.1px;color:rgb(35,31,32);
-levelsafterithasdeviatedor### s1 f13 fs1 l0###left:11262.3px;bottom:26317.7px;color:rgb(35,31,32);
-ﬁ### s1 f66 fs1 l0###left:11632.5px;bottom:26131.1px;color:rgb(35,31,32);
-ndanewrange,thetimehorizonandchanges### s1 f66 fs1 l0###left:3457.8px;bottom:25300.2px;color:rgb(35,31,32);
+levelsafterithasdeviatedorndanewrange,thetimehorizonandchanges### s1 f66 fs1 l0###left:3457.8px;bottom:25300.2px;color:rgb(35,31,32);
 inthemarketplacemustbetakenintoaccount.Forexample,between1998### s1 f66 fs1 l0###left:3457.8px;bottom:24473px;color:rgb(35,31,32);
 and2003themeanvolatilityleveloftheSPXwasaround20percentto### s1 f66 fs1 l0###left:3457.8px;bottom:23642px;color:rgb(35,31,32);
 30percent.Bythelatterhalfof2006,themeanIVwasintherangeof### s1 f66 fs1 l0###left:3457.8px;bottom:22814.7px;color:rgb(35,31,32);
@@ -24,9 +20,7 @@ wasthebuildupof### s1 f23 fs1 l0###left:8671.68px;bottom:22176.1px;color:rgb(35,
 “### s1 f66 fs1 l0###left:8951.04px;bottom:21987.5px;color:rgb(35,31,32);
 thetechbubble,### s1 f23 fs1 l0###left:13355.8px;bottom:22176.1px;color:rgb(35,31,32);
 ”### s1 f66 fs1 l0###left:13813px;bottom:21987.5px;color:rgb(35,31,32);
-asitwascalledbythe### s1 f13 fs1 l0###left:19817.9px;bottom:22174px;color:rgb(35,31,32);
-ﬁ### s1 f66 fs1 l0###left:20188px;bottom:21987.5px;color:rgb(35,31,32);
-nancialmedia.### s1 f66 fs1 l0###left:3457.73px;bottom:21156.5px;color:rgb(35,31,32);
+asitwascalledbythenancialmedia.### s1 f66 fs1 l0###left:3457.73px;bottom:21156.5px;color:rgb(35,31,32);
 Marketvolatilityultimatelyleveledoffin2003.### s1 f66 fs1 l0###left:4604.29px;bottom:20329.3px;color:rgb(35,31,32);
 Inalaterera,betweenthefallof2010andlatesummerof2011SPX### s1 f66 fs1 l0###left:3457.73px;bottom:19498.4px;color:rgb(35,31,32);
 impliedvolatilitysettledintotrademostlybetween12and20percent.But### s1 f66 fs1 l0###left:3457.73px;bottom:18671.1px;color:rgb(35,31,32);
@@ -34,9 +28,7 @@ inAugust2011,astheEuropeandebtcrisisheatedup,anew,morevolatile### s1 f66 fs1 l0#
 rangebetween24and40percentreignedforsometime.### s1 f66 fs1 l0###left:4604.29px;bottom:17012.9px;color:rgb(35,31,32);
 NotradercanaccuratelypredictfutureIVanymorethanonecanpre-### s1 f66 fs1 l0###left:3457.73px;bottom:16182px;color:rgb(35,31,32);
 dictthefuturepriceofastock.However,withIVthereareoftenrecurr-### s1 f66 fs1 l0###left:3457.73px;bottom:15354.7px;color:rgb(35,31,32);
-ingpatternsthattraderscanobserve,liketheebband### s1 f13 fs1 l0###left:19378.9px;bottom:15541.3px;color:rgb(35,31,32);
-ﬂ### s1 f66 fs1 l0###left:19745.3px;bottom:15354.7px;color:rgb(35,31,32);
-owofIVoften### s1 f66 fs1 l0###left:3457.73px;bottom:14523.8px;color:rgb(35,31,32);
+ingpatternsthattraderscanobserve,liketheebbandﬂowofIVoften### s1 f66 fs1 l0###left:3457.73px;bottom:14523.8px;color:rgb(35,31,32);
 associatedwithearningsorotherregularlyscheduledevents.Butbeaware### s1 f66 fs1 l0###left:3457.73px;bottom:13696.5px;color:rgb(35,31,32);
 thattheIV### s1 f23 fs1 l0###left:6563.58px;bottom:13885.2px;color:rgb(35,31,32);
 ’### s1 f66 fs1 l0###left:6726.85px;bottom:13696.5px;color:rgb(35,31,32);
